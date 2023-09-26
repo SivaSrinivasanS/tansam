@@ -1,8 +1,8 @@
 Potato Leaf Disease Detection DL Model | TANSAM Project - https://www.youtube.com/watch?v=hUum4hq8WlU
 
-Use the above link to watch the entire process involing in it viz., Code syntax, GCP operations, Backend and front end operartions.
+Use the above link to watch the entire process involved in it viz., Code syntax, GCP operations, and Backend and front-end operations.
 
 
 Potato Leaf Disease Detection DL Model | TANSAM Project | Output only - https://www.youtube.com/watch?v=GPiiRNbFwRE
 
-Use the above link to watch the just the output of webpage and mobile app emulator.
+Use the above link to watch just the output of the webpage and mobile app emulator.
